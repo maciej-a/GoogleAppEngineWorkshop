@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "WARNING: Remove GIT information after commiting all changes"
 echo removing generated files - uncomment script lines!
 find . -name .metadata | while read line; do rm -rfv $line; done
 find . -name RemoteSystemsTempFiles | while read line; do rm -rfv $line; done
