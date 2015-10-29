@@ -97,7 +97,7 @@
 
 
 				<form:form name="addCommentForm" role="form" method="post" id="addCommentForm"
-					commandName="newComment" action="/addComment" enctype="multipart/form-data">
+					commandName="newComment" action="/addComment"> <%--use enctype when using Blobstore.createUploadUrl() as action: enctype="multipart/form-data"--%>
 					<div class="form-group">
 						<label for="comment">Comment</label>
 						<spring:bind path="newComment.text">
