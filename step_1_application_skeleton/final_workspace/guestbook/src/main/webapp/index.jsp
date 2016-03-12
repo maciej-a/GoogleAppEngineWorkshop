@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>GAE - Warsjawa 2014</title>
+<title>GoogleAppEngine.pl</title>
 </head>
 <body>
 <h1>Google App Engine Workshop</h1>

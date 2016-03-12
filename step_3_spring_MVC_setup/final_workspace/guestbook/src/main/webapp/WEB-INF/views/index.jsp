@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>GAE - Warsjawa 2014</title>
+<title>GoogleAppEngine.pl</title>
 </head>
 <body>
-<h1>Warsjava 2014 - Google App Engine Workshop</h1>
+<h1>GoogleAppEngine.pl - Google App Engine Workshop</h1>
 <h2>Spring MVC setup</h2>
 </body>
 </html>
